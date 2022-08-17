@@ -46,8 +46,7 @@ Use the command `code /path/to/file/or/directory/you/want/to/open` to open your 
 
 ## Curated lists of extensions
 
-    ```bash
-
+```bash
 code --install-extension 2gua.rainbow-brackets
 code --install-extension DaltonMenezes.aura-theme
 code --install-extension dbaeumer.vscode-eslint
@@ -67,5 +66,4 @@ code --install-extension Tyriar.lorem-ipsum
 code --install-extension vscode-icons-team.vscode-icons
 code --install-extension wayou.vscode-todo-highlight
 code --install-extension wix.vscode-import-cost
-
-    ```
+```
